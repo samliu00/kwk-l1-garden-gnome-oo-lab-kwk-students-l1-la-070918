@@ -29,5 +29,11 @@ class GardenGnome
   def hat_color
     @hat_color
   end
-  def 
+  def gnaw
+    puts "Gnawing on a tree!!!"
+  end 
+  def shout
+    puts "GNARLY!!!"
+  end 
+  def introduce_self 
   
