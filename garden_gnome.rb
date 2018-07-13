@@ -30,10 +30,10 @@ class GardenGnome
     @hat_color
   end
   def gnaw
-    puts "Gnawing on a tree!!!"
+    return "Gnawing on a tree!!!"
   end 
   def shout
-    puts "GNARLY!!!"
+    return "GNARLY!!!"
   end 
   def introduce_self 
     puts "Hellow humans, my name is #{name}, I am #{age} years old, and you'll rue the day you crossed me!"
